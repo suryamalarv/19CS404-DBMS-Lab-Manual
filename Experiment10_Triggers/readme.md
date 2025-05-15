@@ -14,7 +14,7 @@ A **trigger** is a stored PL/SQL block that is automatically executed or fired w
 - **After Trigger**: Executes after the operation.
 - **Row-level Trigger**: Executes for each affected row.
 - **Statement-level Trigger**: Executes once for the triggering statement.
-
+ 
 **Basic Syntax:**
 ```sql
 CREATE OR REPLACE TRIGGER trigger_name
